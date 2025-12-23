@@ -20,7 +20,7 @@
 		ultimo cioccolatino
 
 	  NEUTRO
-	        красное вино
+	    красное вино
 	  	vino rosso
 
 		горячее блюдо
@@ -59,7 +59,7 @@
 			+ читать:   я читаю   по-русски (leggere)
 			+ понимать: я понимаю по-русски (capire)
 
-       - Sport:
+    - Sport:
 		Per dire che sport si pratica si usa la preposizione в seguita dal nome dello sport all'accusativo.
 		Example: я играю B TEHHиC == io gioco a tennis.
 
@@ -102,3 +102,10 @@
 		(F) Какая погода?
 		(N) Какое число сегодня?
 		
+	- Ha (in, con) + mezzo di trasporto al prepositivo:
+        автобус   - ехать на автобусе   == autobus       - andare in/con l'autobus
+        велосипед - ехать на велосипеде == bicicletta    - andare in/con la bicicletta
+        метро     - ехать на метро      == metropolitana - andare in/con la metropolitana
+        такси     - ехать на такси      == taxi          - andare in/con il taxi
+        поезд     -       на поезде     == treno         -        in/con il treno
+

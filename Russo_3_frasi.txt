@@ -10,8 +10,8 @@
 
 За встречу! == za vstrieci(o)u == Al nostro incontro! (lett. All'incontro!)
 
-Что Вы желаете?  == (s)chto vi gelatie? == Cosa desidera?
-У Вас есть кофе? == U vas_iest cofie?   == ha del caffé? (sento come una liaison)
+Что Вы желаете?        == (s)chto vi gelatie?      == Cosa desidera?
+У Вас есть кофе?       == U vas_iest cofie?        == ha del caffé? (sento come una liaison)
 Одно пиво, пожалуйста. == Adna piva, pagealu(i)sta == una birra, per favore
 
 ::AL-RISTORANTE::
@@ -49,3 +49,11 @@ Kak тебя зовут? == kak Tebia zavut  == come ti chiami tu? (come ti chia
 Мой номер телефона...          = il mio numero di telefono ...
 Это Ваш рабочий номер?         = questo è il tuo numero di lavoro?
 У тебя есть мобильный телефон? = Hai tu un numero di telefono mobile?
+
+::USARE-I-TRASPORTI::
+
+На чём ты обычно едешь?   == Tu con cosa vai di solito?
+Куда ты едешь?            == dove vai tu?
+Я еду на такси            == io vado in taxi
+Вы едете слишком медленно == lei Va troppo lentamente
+

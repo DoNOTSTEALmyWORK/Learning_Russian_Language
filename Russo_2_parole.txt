@@ -1,7 +1,7 @@
-Как дела? = Cac diela = Come va?
-Откуда ты? = atquda t(u)i? = da dove vieni tu?
+Как дела?      = Cac diela         = Come va?
+Откуда ты?     = atquda t(u)i?     = da dove vieni tu?
 Я из Германии. = ja iz germanii(e) = io vengo dalla Germania.
-Она из России. = ona iz Rassii(e) = lei viene dalla Russa.
+Она из России. = ona iz Rassii(e)  = lei viene dalla Russa.
 
 A кто он по профессии? == E che lavoro fa?
 
@@ -121,3 +121,4 @@ TRASPORTI
 метро   = metro
 такси   = taxi
 домой   = a casa (usato per il moto a luogo)
+поезд   = treno
