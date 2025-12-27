@@ -23,6 +23,7 @@
 Я буду            == ia budu              == io sarò/io prenderò
 О! Это цена?      == oh eta zseina        == oh, questo è il prezzo?
 Что ещё           == shto ishhjo          == volere + altro?/volete altro?
+Что Вы желаете?   == shto ve gielaietie   == cosa volete voi?
 
 ::PRESENTARSI::
 

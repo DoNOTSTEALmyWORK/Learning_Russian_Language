@@ -122,3 +122,4 @@ TRASPORTI
 такси   = taxi
 домой   = a casa (usato per il moto a luogo)
 поезд   = treno
+вокзал  = stazione

@@ -64,11 +64,12 @@ cie = чe (può anche essere letto come ce)
 d  = д
 de = д (con la pronuncia della e che non è ie)
 
-e  = э/ы, (э si scrive eh, ы si scrive y) --> e != ie
+e  = э/ы/ь, (э si scrive eh, ы si scrive y, pь sempre re) --> e != ie
 f  = ф
 g  = Г
 ge = ж (zh) (ж != х)
 gh = ж (simile a sc in italiano, ma piu' g)
+gz = кз (la z qui è piu' zs) 
 
 h  = х (kh)
 i  = и
@@ -91,8 +92,9 @@ r = p
 s   = c/з (C è s di sala, з è s di rosa)
 sht = чt (ci + t == sht)
 
-sc  = ш (sh)
-scc = щ (shh)
+sc   = ш (sh)
+scc  = щ (shh)
+scio = cчё
 
 te = Tы (-ы singolarmente si legge come una e non ie (non dolce)-)
 u  = y
@@ -103,6 +105,7 @@ vo = Гo
 
 z   = з
 zs  = ц (c key, come in piazza)
+zse = цe (e dovrebbe essere pronunciata ie ma qui si pronuncia e)
 zus = цyз (normalmente з sarebbe una z più dura di ц)
 
 La lettera ь (symbol ' for the italian keyboard) non è un suono a sé stante.
