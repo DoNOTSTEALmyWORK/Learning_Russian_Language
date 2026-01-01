@@ -1,0 +1,125 @@
+Как дела?      = Cac diela         = Come va?
+Откуда ты?     = atquda t(u)i?     = da dove vieni tu?
+Я из Германии. = ja iz germanii(e) = io vengo dalla Germania.
+Она из России. = ona iz Rassii(e)  = lei viene dalla Russa.
+
+A кто он по профессии? == E che lavoro fa?
+
+Германия - из Германии
+Germania - dalla Germania
+
+Португалия - из Португалии
+Portogallo - dal Portogallo
+
+------------------------------------
+
+::DICTIONARY::
+
+хорошо     = harasciò      = bene
+плохо      = ploha         = male
+отлично    = atlicna       = ottimo
+автобус    = aftobus       = autobus
+спасибо    = spàsiba       = grazie
+заказ      = zazacas       = ordinazione
+пожалуйста = pagealu(i)sta = perfavore
+
+меню     = meinio    = menu
+цена     = zsena     = prezzo
+ещё      = iescio    = ancora
+субъект  = subiect   = soggetto
+здоровье = zsdarovia = salute
+
+госпожа = gaspagea = signora
+любит   = liubit   = ama
+знаю    = znaiu    = conosco
+видела  = vidielà  = visto
+работа  = rabota   = lavoro
+
+Где ..? = Gdie.. ? = Dove ..?
+KTo ..? = Cto... ? = Chi ...?
+Что ..? = shto ..? = Cosa..?
+
+чемодан  = ciemadan  = valigia
+Извините = izvinitie = scusi
+рейс     = rieìs     = volo aereo
+MecTo    = miesta    = posto a sedere
+
+Moй  nana     = moì papa     = mio papà
+Moя  MaMa     = maia mama    = mia mamma
+Moй  6paT     = moi brat     = mio fratello
+моя  сестра   = maia siestra = mia sorella
+eго  дочка    = ievo docka   = sua figlia
+её   сын      = ieio sin     = suo figlio (lei)
+их   родители = ih raditielì = i loro genitori
+твoй муж      = tvoi Mu(s)ge = tuo marito
+eго  Женя     = ievo ggenja  = sua moglie
+
+утром   = utram     = mattina
+днём    = d-niom    = pomeriggio
+вечером = viecieram = sera
+сегодня = sievodnia = oggi
+
+джаз      = d-geas       = jazz
+город     = gorad        = città
+центре    = zsientrie    = centro
+Kвартира  = cv-artira    = appartamento
+общежитиe = abshhiegitie = studentato 
+деревня   = dierievnia   = villaggio
+
+немецкий    = tedesco
+английский  = inglese
+русский     = russo
+французский = francese
+испанский   = spagnolo
+
+понедельник = lunedì
+вторник     = martedì
+среда       = mercoledì
+четверг     = giovedì
+пятница     = venderdì
+суббота     = sabato
+воскресенье = domenica
+
+январь   = gennaio
+февраль  = febbraio
+март     = marzo
+апрель   = aprile
+май      = maggio
+июнь     = giugno
+июль     = luglio
+август   = agosto
+сентябрь = settembre
+октябрь  = ottobre
+ноябрь   = novembre
+декабрь  = dicembre
+
+NUMERI
+ноль   = nol(e) = zero
+один   = Adin       - один(Male),однa(F),однo(ò,N)
+два    = Dva        - два( Male),двe(F)
+три    = Tri        -
+четыре = Ciietierie -
+Пять   = piat
+шесть  = sciest
+семь   = siem
+восемь = vosiem
+девять = dieviat (ia diventa ie, può essere per la combo con la ь)
+десять = diesiat (ia diventa ie, può essere per la combo con la ь)
+
+DIREZIONI
+налево      = sinistra
+направо     = destra
+близко      = vicino
+далеко      = lontano
+Идите прямо = vai dritto
+      прямо =     dritto
+через мост  = al di là (dall'altra parte, attraverso)
+
+TRASPORTI
+трамвай = tram
+автобус = autobus
+метро   = metro
+такси   = taxi
+домой   = a casa (usato per il moto a luogo)
+поезд   = treno
+вокзал  = stazione
