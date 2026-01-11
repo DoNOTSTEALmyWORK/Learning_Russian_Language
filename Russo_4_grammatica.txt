@@ -82,13 +82,46 @@
 		были, passato plurale
 
 	- PLURALE:
+	    (( maschile o femminile regolare ))
 		лимон   - лимоны,   limone   - limoni
 		помидор - помидоры, pomodoro - pomodori
 		огурец  - огурцы,   cetriolo - cetrioli
 		слива   - сливы,    prugna   - prugne
 		ягода   - ягоды,    bacca    - bacche
-		вишня   - вишни,    ciliegia - ciliegie
-		печь    - печи,     forno    - forni
+		улицa   - улицы,    strada   - strade
+		плaнo   - плaны,    piano    - piani 
+
+        (( neutro, termina in -o o -е ))
+        письмо - письма, lettera - lettere
+        озеро  - озёра,  lago    - laghi
+        
+        (( se termina in -е ))
+        поле - поля, campo - campi
+        
+        (( se termina in -г, -к o -х. -я o -ь )
+		вишня    - вишни,     ciliegia  - ciliegie
+		печь     - печи,      forno     - forni
+		памятник - памятники, monumento - monumenti
+		
+		(( irregolari, che termina in -a ))
+        дорога   - дороги,    via       - vie
+        peкa     - peки,      fiume     - fiumi
+
+        (( irregolari, a cui si aggiunge -a senza togliere niente ))
+		город   - города,   la città - le città
+        дом     - дома,     casa     - case
+
+    - AGGETTIVI:
+          Desinenze finali per gli aggettivi (AL SINGOLARE):
+              aggettivi maschili, normalmente  si aggiunge: -ый.
+                 Se termina in (г, к o х)      si aggiunge: -ий.
+              aggettivi femminili, normalmente si aggiunge: -ая.
+              aggettivi neuri,     normalmente si aggiunge: -ое.
+		  Desinenze finali per gli aggettivi (AL PLURALE):
+			  Si aggiunge sempre e solo:                    -ые.
+              Se preceduta da (г, к o х) si aggiunge:       -ие.
+              Anche Какой (Quale, Che…),
+              si comporta come un aggettivo e aggiunge:     -ие.
 
 	- NUMERI:
 		Dopo i numerali два, три e четыре il sostantivo che segue va al genitivo singolare.
@@ -108,4 +141,3 @@
         метро     - ехать на метро      == metropolitana - andare in/con la metropolitana
         такси     - ехать на такси      == taxi          - andare in/con il taxi
         поезд     -       на поезде     == treno         -        in/con il treno
-

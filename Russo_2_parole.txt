@@ -93,18 +93,31 @@ Kвартира  = cv-artira    = appartamento
 ноябрь   = novembre
 декабрь  = dicembre
 
+--------------------------------------------------------------------------
 NUMERI
-ноль   = nol(e) = zero
-один   = Adin       - один(Male),однa(F),однo(ò,N)
-два    = Dva        - два( Male),двe(F)
-три    = Tri        -
-четыре = Ciietierie -
-Пять   = piat
-шесть  = sciest
-семь   = siem
-восемь = vosiem
-девять = dieviat (ia diventa ie, può essere per la combo con la ь)
-десять = diesiat (ia diventa ie, può essere per la combo con la ь)
+0  = ноль   = nol(e)
+1  = один   = Adin     - один(Male),однa(F),однo(ò,N)
+2  = два    = Dva      - два( Male),двe(F)
+3  = три    = Tri      -
+4  = четыре = Cietirie -
+5  = Пять   = piat
+6  = шесть  = sciest
+7  = семь   = siem
+8  = восемь = vosiem
+9  = девять = dieviat (ia diventa ie, può essere per la combo con la ть)
+10 = десять = diesiat (ia diventa ie, può essere per la combo con la ть)
+|
+11 = один   + надцать = одиннадцать
+12 = два    + надцать = дв[е]надцать    | [e] indica 'attenzione al cambio a -> e' 
+13 = три    + надцать = тринадцать
+14 = четыре + надцать = четыр(e)надцать | (e) indica 'e muta'
+15 = пять   + надцать = пят(ь)надцать
+16 = шесть  + надцать = шест(ь)надцать
+17 = семь   + надцать = сем(ь)надцать
+18 = восемь + надцать = восем(ь)надцать
+19 = девять + надцать = девят(ь)надцать
+
+--------------------------------------------------------------------------
 
 DIREZIONI
 налево      = sinistra
