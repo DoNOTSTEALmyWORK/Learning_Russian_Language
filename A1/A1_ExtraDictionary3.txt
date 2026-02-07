@@ -1,0 +1,4 @@
+Сколько тебе лет?        = Quanti anni hai?
+Мне тридцать лет.        = Io ho 30 anni.
+Он ещё молодой.          = è ancora giovane.
+У тебя интересная жизнь! = Hai una vita interessante!

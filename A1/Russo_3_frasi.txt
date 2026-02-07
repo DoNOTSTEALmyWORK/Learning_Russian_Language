@@ -1,0 +1,60 @@
+
+::MORE COMPLEX SENTECES::
+
+Я Хорошо, а у тебя? == Ia hrascio, a u tibia? == Io sto bene, e tu?
+Привет, неплохо.    == Priviet, nieploha      == Ciao, non male ( non male == nonmale)
+Пока, увидимся!     == Pakà, Uvidimsia        == Ciao/addio, ci vediamo/arrivederci!
+Как y Вас дела?     == Cac u vas diela?       == (Voi) Come state?
+Как дела?           == Cac diela?             == (Tu) Come va?
+Как всегда          == cac (V muta)siegda     == Va come sempre
+
+За встречу! == za vstrieci(o)u == Al nostro incontro! (lett. All'incontro!)
+
+Что Вы желаете?        == (s)chto vi gelatie?      == Cosa desidera?
+У Вас есть кофе?       == U vas_iest cofie?        == ha del caffé? (sento come una liaison)
+Одно пиво, пожалуйста. == Adna piva, pagealu(i)sta == una birra, per favore
+
+::AL-RISTORANTE::
+
+Это всё?          == eta vsio             == è tutto?
+Счёт, пожалуйста. == sciot pagealu(ì)sta. == il conto per favore
+стабильная цена   == stabilnja zseina     == prezzo stabile
+Это цена в евро?  == eta zsena v-ievra    == Questo è il prezzo in euro?
+Я буду            == ia budu              == io sarò/io prenderò
+О! Это цена?      == oh eta zseina        == oh, questo è il prezzo?
+Что ещё           == shto ishhjo          == volere + altro?/volete altro?
+Что Вы желаете?   == shto ve gielaietie   == cosa volete voi?
+
+::PRESENTARSI::
+
+Здравствуйте!   == zdra(v)stvuitie  == salve! la (st) qui è pronunciata insieme ma brevemente (pausa di pochi millisecondi dopo st).
+Добрый день!    == dobri-diei(n)    == buonagiorno!
+Добрый вечер!   == dobri-veicier    == buona sera!
+Kak Bas  зовут? == kak vas zavut    == come si chiama lei? (come la chiamano?)
+Kak тебя зовут? == kak Tebia zavut  == come ti chiami tu? (come ti chiamano?)
+Меня зовут ...  == mienia zavut ... == Mi chiamo (mi chiamano) ...
+Как его зовут?  == kak iego zavut   == come si chiama lei/essa? (come la chiamano lei?), eё  per le  donne
+Её зовут ...    == ieio zavut ...   == lei/essa si chiama (la chiamano) ...            , eго per gli uomni
+
+
+::ACQUISTARE::
+
+Сколько стоят ягоды? == Quanto costano le bacche?
+Сколько это   стоит? == Quanto costa      questo?
+Это очень   дёшево!  == È molto  economico!
+Это слишком дорого!  == È troppo caro!
+
+::NUMERO DI TELEFONO::
+
+Какой твой номер телефона?     = quale è il tuo numero di telefono?
+Мой номер телефона...          = il mio numero di telefono ...
+Это Ваш рабочий номер?         = questo è il tuo numero di lavoro?
+У тебя есть мобильный телефон? = Hai tu un numero di telefono mobile?
+
+::USARE-I-TRASPORTI::
+
+На чём ты обычно едешь?   == Tu con cosa vai di solito?
+Куда ты едешь?            == dove vai tu?
+Я еду на такси            == io vado in taxi
+Вы едете слишком медленно == lei Va troppo lentamente
+

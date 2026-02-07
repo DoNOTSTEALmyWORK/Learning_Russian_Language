@@ -1,0 +1,123 @@
+io, tu, lui/lei/loro noi voi loro = я,           ты,           он,   она,  оно,  мы,          вы,          они
+                           DATIVO = Мне,         Тебе,         Ему,  Ему,  Ей,   Нам,         Вам,         Им
+                          PRONOMI = меня,        тебя,         его,  её,   его,  нас,         вас,         их
+                PRONOMI-per-AVERE = меня,        тебя,         него, неё,  него, нас,         вас,         их
+                       POSSESSIVI = Mo(й/я/ё/й), тво(й/я/ё/й), его,  её,   его,  НАШ(/a/e/й), ваш(/а/e/й), ИХ
+POSSESSIVI: MASCHILE
+            FEMMINILE
+	        NEUTRO
+	        PLURALE
+
+дa     = si
+KTo    = chi?
+Tam    = la
+дома   = casa
+нeT    = no
+привет = ciao = privet
+
+io/(ja o ia) = я
+
+::MASCHILE::
+finisce con consonante (tipo T) o "й"
+La maggior delle nazionalità al maschile è riconoscibile dalla desinenza -eц.
+
+::FEMMMINILE::
+Ka/a/я
+La maggior delle nazionalità al femminile è riconoscibile dalla desinenza -Ka
+
+::GENERE NEUTRO::
+Finiscono per lo più in -о oppure in -е
+
+::CONJUNCTION AND::
+io e tu               = я и ты
+io sono a casa, e tu? = я дома, a ты?
+
+::CONJUNCTION MA::
+ma/e = a
+
+::CONJUNCTION OR::
+Desidera un gin o un liquore? == Вы желаете джин или ликёр?
+
+::PREPOSITION-IN::
+in = B --> Я работаю в банке. == io lavoro in banca.
+in = Ha > per B o Ha si aggiunge genericamente solo una -e
+        - Ha завод(e)
+        - B  фирм(e)
+        - B  письм(e)
+       -> se sono alla fine (a, я, o) finale cadono:
+          Москва  -> в Москве
+          деревня -> в деревне
+       -> (ия, иe) cadono diventando poi ии
+
+::NEGATION::
+no = нe
+
+::ALPHABET::
+
+a  = a/o/э (a alla fine è pronunciata a, o all'inizio si pronuncia a)
+af = aB
+av = aB
+b  = б/Б
+
+c   = K/ч (K come casa, ч come ciao)
+ci  = ч (ch) (K è un c più dura e netta)
+cie = чe (può anche essere letto come ce)
+che = Ka
+
+d  = д
+de = д (con la pronuncia della e che non è ie)
+
+e  = э/ы/ь, (э si scrive eh, ы si scrive y, pь sempre re) --> e != ie
+f  = ф
+ft = BT
+
+g  = Г
+ge = ж (zh) (ж != х)
+gh = ж (simile a sc in italiano, ma piu' g)
+gz = кз (la z qui è piu' zs) 
+
+h  = х (kh)
+i  = и
+ì  = й (jj)
+
+ia = я
+ie = e
+io = ё (jo)
+iu = ю (ju, spesso è muta)
+
+l  = л
+li = лы (ы con la l è sempre li)
+
+m = M
+n = н
+o = o (quando la o è accentata si pronuncia o, se no a)
+p = п
+r = p
+
+s   = c/з (C è s di sala, з è s di rosa)
+sht = чt (ci + t == sht)
+
+sc   = ш (sh)
+scc  = щ (shh)
+scio = cчё
+
+te = Tы (-ы singolarmente si legge come una e non ie (non dolce)-)
+u  = y
+ue = yы
+
+v   = B
+vie = вя
+vo  = Гo
+
+z   = з
+zs  = ц  (c key, come in piazza)
+zse = цe (e dovrebbe essere pronunciata ie ma qui si pronuncia e)
+zsi = цы
+zus = цyз (normalmente з sarebbe una z più dura di ц)
+
+La lettera ь (symbol ' for the italian keyboard) non è un suono a sé stante.
+Si trova solo dopo alcune consonanti per renderne la pronuncia più dolce.
+Questo segno viene chiamato мягкий знак (segno debole),
+|
+Il suo opposto forte è ъ (symbols '' on the keyboard ),
+di solito sta in  mezzo  alla parola.

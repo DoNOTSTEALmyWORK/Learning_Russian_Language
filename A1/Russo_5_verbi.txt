@@ -1,0 +1,131 @@
+::LAVORARE:: работать
+я	       работаю	 ю   ---
+ты	       работаешь ешь
+он/она/оно работает	 ет  --
+мы         работаем	 ем
+вы	       работаете eте --
+они	       работают	 ют  --
+
+
+::LEGGERE:: читать
+я          читаю
+ты         читаешь
+он/она/оно читает
+мы         читаем
+вы/Вы      читаете
+они        читают
+
+
+::FARE:: Делать
+я          делаю
+ты         делаешь
+он/она/оно делает
+мы         делаем
+вы/Вы      делаете
+они        делают
+
+
+::ASCOLTARE:: слушать
+я          слушаю
+ты         слушаешь
+он/она/оно слушает
+мы         слушаем
+вы         слушаете
+они        слушают
+
+
+::GIOCARE:: играть 
+я          играю
+ты         играешь
+он/она/оно играет
+мы         играем
+вы         играете
+они        играют
+
+::CONOSCERE:: знать
+я          знаю
+ты         знаешь
+он/она/оно знает
+мы         знаем
+вы         знаете
+они        знают
+
+::CAPIRE:: понимать
+я          понимаю
+ты         понимаешь
+он/она/оно понимает
+мы         понимаем
+вы         понимаете
+они        понимают
+
+::ANDARE:: ехать (con un mezzo di trasporto)
+я          еду  <-- irregolare
+ты         едешь
+он/она/оно едет
+мы         едем
+вы/Вы      едете
+они        едут <-- irregolare
+
+-------------------------
+
+::PARLARE:: говорить
+я          говорю
+ты         говоришь - и != e
+он/она/оно говорит  - и != e
+мы         говорим  - и != e
+вы         говорите - и != e
+они        говорят  - я != e
+
+::AMARE::  любить
+я          люблю
+ты         любишь
+он/она/оно любит
+мы         любим
+вы         любите
+они        любят
+
+::COSTARE:: стоить
+Я          стою
+ты         стоишь
+он/она/оно стоит
+мы         стоим
+вы         стоите
+они        стоят
+
+-------------------------
+
+::ABITARE:: жить
+я          живу   - y != ю
+ты         живёшь - ё != ё
+он/она/оно живёт  - ё != ё
+мы         живём  - ё != ё
+вы         живёте - ё != ё
+они        живут  - y != ю
+
+::ABITARE:: жить (passato: abitavo/abitavi/abitavamo)
+жил,  passato di tutte le persone maschili singolari
+жила, passato di tutte le persone femminili singolari
+жило, passato di tutte le persone neutre singolari
+жили, passato plurale, o forma di cortesia (Вы)
+
+::NASCERE:: родить (passato)
+родил,  passato di tutte le persone maschili singolari
+родила, passato di tutte le persone femminili singolari
+родило, passato di tutte le persone neutre singolari
+родили, passato plurale, o forma di cortesia (Вы)
+
+-------------------------
+
+::ESSERE:: быть (futuro)
+я          будy
+ты         будешь
+он/она/оно будет
+мы         будем
+вы         будete
+они        будyт
+
+::ESSERE:: быть (passato: ero/eri/eravamo)
+был,  passato di tutte le persone maschili singolari
+была, passato di tutte le persone femminili singolari
+было, passato di tutte le persone neutre singolari
+были, passato plurale, o forma di cortesia (Вы)

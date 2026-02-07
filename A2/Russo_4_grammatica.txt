@@ -1,0 +1,47 @@
+
+::GRAMMATICA::
+
+	- AVERE-con-i-PRONOMI::
+      Costruzione:
+        costruzione: у + possessore al genitivo + есть + oggetto al nominativo,
+        costruzione per il pronome personale della terza persona:
+          У меня есть  машина. == Io ho una macchina.
+          У тебя новый зонт?   == Hai un nuovo ombrello?
+          У него есть  шарф?   == Lui ha una sciarpa?
+          У неё  есть  шапка.  == Lei ha un berretto.
+        costruzione у + nome al genitivo + есть:
+          мама:     У мамы      есть ноутбук.   == Mamma ha un notebook.
+          Аня:      У Ани       есть дети?      == Anja ha figli?
+          директор: У директора есть сын?       == Il direttore ha un figlio?
+          Игорь:    У Игоря     есть кошка.     == Igor ha un gatto.
+          Сергей:   У Сергея    есть компьютер? == Sergej ha un computer?
+      нет:
+        Al posto di есть -> y + SOGGETTO + нет + OGGETTO_al_genitivo:
+          У нас нет денег. == Il genitivo di деньги è irregolare e va imparato a memoria.
+
+
+    - GENETIVO-NOMI::
+      SINGOLARE:
+        MASCHILE:
+          + a
+          - й/ь + я
+        FEMMINILE:
+          - a      + ы
+          - (к/г)а + и *(к/г) resta
+          -  я/ь   + и
+        NEUTRO:
+          - о    + а
+          - e    + я
+          - я    + ни
+          - (и)е + я *и resta
+      PLURALE:
+        MASCHILE:
+          consonante: + ов
+          - й         + eв
+          - ь         + eй
+        FEMMINILE:
+          - a
+          - (и)я + ий *и resta
+        NEUTRO:
+          - о
+          - (и)e + ий *и resta

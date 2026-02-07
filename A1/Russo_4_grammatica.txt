@@ -1,0 +1,202 @@
+
+::GRAMMATICA::
+
+	- gli aggettivi in russo vanno prima del nome, come in inglese:
+	  MASCHILE
+		вкусный борщ
+		boršč delizioso
+
+		горячий чай
+		tè caldo
+
+		дорогой салат
+		insalata costosa
+
+	  FEMMINILE
+		вкусная колбаса
+		salame delizioso
+
+		последняя конфета
+		ultimo cioccolatino
+
+	  NEUTRO
+	    красное вино
+	  	vino rosso
+
+		горячее блюдо
+		piatto caldo
+
+	- verbi:
+		* In russo l'infinito dei verbi regolari termina quasi sempre in -ть.
+		* In russo esistono due grandi gruppi verbali.
+		  L'infinito dei verbi del primo gruppo termina in -ать o -ять.
+		* solo -ить modifica le cogniugazioni con la и al posto di e.
+
+	- Agg.Possessivi:
+		Diversamente dall'italiano,
+		Gli aggettivi possessivi russi alla 3ª persona singolare (его e её),
+		si riferiscono al possessore già menzionato.
+		La regola vale solo per его e её.
+		Mio(a) Tuo(a), Loro seguono la persona a cui ci si riferisce.
+
+	- Avere (Possessivo):
+		у + pronome personale al genitivo (меня, тебя, его, ..) (NON POSSESSIVI!) + есть.
+		per la terza persona evo/ieio/ikh si aggiunge una n (H):
+		* Hего, Hеё,  Hего, Hих. <-- меня/Hac/Bac ESCLUSI (per la H).
+
+	- Avverbi come (di solito/spesso/raramente/...)
+      si mettono prima del verbo ma dopo il soggetto:
+		* я обычно читаю == Io di solito leggo
+		* Что вы обычно читаете? == Cosa voi di solito leggete?
+		* Днём она не читает == Di giorno lei non legge
+
+	- Conoscenze-Linguistiche
+		* In russo le conoscenze linguistiche si esprimono con:
+          ("по-" + "nome della lingua") (senza й):
+			+ французский - по-французски
+			+ итальянский - по-итальянски
+			+ русский     - по-русски
+		* Coon verbi:
+			+ говорить: я говорю  по-русски (parlare)
+			+ читать:   я читаю   по-русски (leggere)
+			+ понимать: я понимаю по-русски (capire)
+
+    - Sport:
+		Per dire che sport si pratica si usa la preposizione в,
+        seguita dal nome dello sport all'accusativo.
+		Example: я играю B TEHHиC == io gioco a tennis.
+
+	- IN settimans:
+		Usando la preposizione в prima di un giorno della settimana,
+        questo diventa un'indicazione temporale.
+			понедельник, в понедельник
+			lunedì,      di lunedì
+			Во вторник (Di Martedì)
+		(a, я, o) finale cadono e diventano y
+
+	- Fare qualcosa in un certo mese, IN/A:
+		март    - в марте   == marzo    - a marzo
+		май     - в мае     == maggio   - a maggio
+		февраль - в феврале == febbraio - a febbraio
+
+	- ESSERE:
+		был,  passato di tutte le persone maschili singolari
+		была, passato di tutte le persone femminili singolari
+		было, passato di tutte le persone neutre singolari
+		были, passato plurale
+
+	- PLURALE:
+	    (( maschile o femminile regolare ))
+		лимон   - лимоны,   limone   - limoni
+		помидор - помидоры, pomodoro - pomodori
+		огурец  - огурцы,   cetriolo - cetrioli
+		слива   - сливы,    prugna   - prugne
+		ягода   - ягоды,    bacca    - bacche
+		улицa   - улицы,    strada   - strade
+		плaнo   - плaны,    piano    - piani 
+
+        (( neutro, termina in -o o -е ))
+        письмо - письма, lettera - lettere
+        озеро  - озёра,  lago    - laghi
+        
+        (( se termina in -е ))
+        поле - поля, campo - campi
+        
+        (( se termina in -г, -к o -х. -я o -ь )
+		вишня    - вишни,     ciliegia  - ciliegie
+		печь     - печи,      forno     - forni
+		памятник - памятники, monumento - monumenti
+		
+		(( irregolari, che termina in -a ))
+        дорога   - дороги,    via       - vie
+        peкa     - peки,      fiume     - fiumi
+
+        (( irregolari, a cui si aggiunge -a senza togliere niente ))
+		город   - города,   la città - le città
+        дом     - дома,     casa     - case
+
+    - AGGETTIVI:
+          Desinenze finali per gli aggettivi (AL SINGOLARE):
+              aggettivi maschili, normalmente  si aggiunge: -ый.
+                 Se termina in (г, к o х)      si aggiunge: -ий.
+              aggettivi femminili, normalmente si aggiunge: -ая.
+              aggettivi neuri,     normalmente si aggiunge: -ое.
+		  Desinenze finali per gli aggettivi (AL PLURALE):
+			  Si aggiunge sempre e solo:                    -ые.
+              Se preceduta da (г, к o х) si aggiunge:       -ие.
+              Anche Какой (Quale, Che…),
+              si comporta come un aggettivo e aggiunge:     -ие.
+
+	- NUMERI:
+		Dopo i numerali два, три e четыре il sostantivo che segue va al genitivo singolare.
+		I sostantivi maschili:
+			аэропорт - три аэропорта, aeroporto - tre aeroporti
+		I sostantivi femminili:
+			школа    - четыре школы,  scuola    - quattro scuole
+	- Како..
+		I pronomi какой/какая/какое (quale) si accordano al nome che li segue:
+		(M) Какой это цвет?
+		(F) Какая погода?
+		(N) Какое число сегодня?
+		
+	- Ha (in, con) + mezzo di trasporto al prepositivo:
+        автобус   - ехать на автобусе   == autobus       - andare in/con l'autobus
+        велосипед - ехать на велосипеде == bicicletta    - andare in/con la bicicletta
+        метро     - ехать на метро      == metropolitana - andare in/con la metropolitana
+        такси     - ехать на такси      == taxi          - andare in/con il taxi
+        поезд     -       на поезде     == treno         -        in/con il treno
+
+    - il sostantivo che indica il possessore,
+      viene declinato e prende la desinenza corrispondente:
+          сумка Виктора (Виктор) - la borsa di Viktor
+          сумка Олега   (Олег)   - la borsa di Oleg
+          сумка брата   (брат)   - la borsa del fratello
+      Per questo "forma-avere-strano",
+      (Se terminano con:    -г, -к, -х) => sostituiscono con -и.
+      I sostantivi maschili:
+          (Se terminano con         -a) => sostituiscono con -ы.
+          (Se terminano con    -ь o -й) => sostituiscono con -я.
+          (Se terminano con consonante) => aggiungono        -а.
+      I sostantivi femminili:
+          (Se terminano con         -a) => sostituiscono con -ы.
+          (Se terminano con         -я) => sostituiscono con -и.
+      *il sostantivo è il Possessore, non l'oggetto posseduto.
+      *il sostantivo è indipendente dal genere del  posseduto.
+
+    - il pronome interrogativo chi?
+         Forma maschile  : чей. (Чей это велосипед?)
+         Forma femminile : чья. (Чья это    машина?)
+
+   - Dire L'ora con час:
+         один                  час
+         два,  три,   четыре   часа
+         пять, шесть, семь ... часов
+         indicare l'ora con в:
+             в            три    часа
+             в            семь   часов
+             Per dire all'una: в час
+
+   - Amare (любить) X,
+     X=(Chi?)(Cosa):
+       Femminile:
+         -я -> -ю
+         -а -> -у
+       Maschili e Neutri:
+         Non cambia niente
+
+   - manipolare i VERBI per renderli RIFLESSIVI:
+     i verbi riflessivi si riconoscono dalla desinenza -ся(dopo le consonanti),
+     i verbi riflessivi si riconoscono dalla desinenza -сь(dopo le vocali),
+     che si aggiunge sempre alla fine della parola.
+       - представить - представиться,     presentare - presentarsi.
+       - Когда он родился?                Quando è nato?
+       - Где она родилась?                Dove è nata?
+       - Концерт начинается в семь часов, Il concerto inizia alle sette.
+       - Она отдыхает на море,            Si riposa al mare.
+
+   - ANNI-D'ETA:
+     Per indicare l'età in russo:
+         la persona (al dativo) + il numero + год/года/лет.
+            Мне 30 лет.       == Ho (lett. A me) 30 anni.
+            Сколько тебе лет? == Quanti anni hai (lett. a te anni)?
+            Сколько Вам лет?  == Quanti anni ha (lett. a Lei anni)?

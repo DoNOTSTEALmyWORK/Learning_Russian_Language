@@ -1,0 +1,10 @@
+шарф                == sciarpa.
+У тебя есть зонт?   == tu hai l'ombrello?
+шапка               == berretto.
+Сегодня идёт дождь. == Oggi c'è pioggia.
+
+У него есть        деньги? == Lui ha  dei soldi?
+У меня нет         денег.  == Io  non ho  soldi.
+У неё  есть белое  платье? == Lei ha  un  vestito   bianco?
+У тебя есть тёплая куртка? == Tu  hai un  giubbotto pesante?
+

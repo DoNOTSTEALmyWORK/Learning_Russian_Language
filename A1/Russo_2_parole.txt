@@ -1,0 +1,170 @@
+Как дела?      = Cac diela         = Come va?
+Откуда ты?     = atquda t(u)i?     = da dove vieni tu?
+Я из Германии. = ja iz germanii(e) = io vengo dalla Germania.
+Она из России. = ona iz Rassii(e)  = lei viene dalla Russa.
+
+A кто он по профессии? == E che lavoro fa?
+
+Германия - из Германии
+Germania - dalla Germania
+
+Португалия - из Португалии
+Portogallo - dal Portogallo
+
+------------------------------------
+
+::DICTIONARY::
+
+хорошо     = harasciò      = bene
+плохо      = ploha         = male
+отлично    = atlicna       = ottimo
+автобус    = aftobus       = autobus
+спасибо    = spàsiba       = grazie
+заказ      = zazacas       = ordinazione
+пожалуйста = pagealu(i)sta = perfavore
+
+меню     = meinio    = menu
+цена     = zsena     = prezzo
+ещё      = iescio    = ancora
+субъект  = subiect   = soggetto
+здоровье = zsdarovia = salute
+
+госпожа = gaspagea = signora
+любит   = liubit   = ama
+знаю    = znaiu    = conosco
+видела  = vidielà  = visto
+работа  = rabota   = lavoro
+
+Где ..? = Gdie.. ? = Dove ..?
+KTo ..? = Cto... ? = Chi ...?
+Что ..? = shto ..? = Cosa..?
+
+чемодан  = ciemadan  = valigia
+Извините = izvinitie = scusi
+рейс     = rieìs     = volo aereo
+MecTo    = miesta    = posto a sedere
+
+Moй  nana     = moì papa     = mio papà
+Moя  MaMa     = maia mama    = mia mamma
+Moй  6paT     = moi brat     = mio fratello
+моя  сестра   = maia siestra = mia sorella
+eго  дочка    = ievo docka   = sua figlia
+её   сын      = ieio sin     = suo figlio (lei)
+их   родители = ih raditielì = i loro genitori
+твoй муж      = tvoi Mu(s)ge = tuo marito
+eго  Женя     = ievo ggenja  = sua moglie
+
+утром   = utram     = mattina
+днём    = d-niom    = pomeriggio
+вечером = viecieram = sera
+сегодня = sievodnia = oggi
+
+джаз      = d-geas       = jazz
+город     = gorad        = città
+центре    = zsientrie    = centro
+Kвартира  = cv-artira    = appartamento
+общежитиe = abshhiegitie = studentato 
+деревня   = dierievnia   = villaggio
+
+немецкий    = tedesco
+английский  = inglese
+русский     = russo
+французский = francese
+испанский   = spagnolo
+
+понедельник = lunedì
+вторник     = martedì
+среда       = mercoledì
+четверг     = giovedì
+пятница     = venderdì
+суббота     = sabato
+воскресенье = domenica
+
+январь   = gennaio
+февраль  = febbraio
+март     = marzo
+апрель   = aprile
+май      = maggio
+июнь     = giugno
+июль     = luglio
+август   = agosto
+сентябрь = settembre
+октябрь  = ottobre
+ноябрь   = novembre
+декабрь  = dicembre
+
+--------------------------------------------------------------------------
+NUMERI
+0  = ноль   = nol(e)
+1  = один   = Adin     - один(Male),однa(F),однo(ò,N)
+2  = два    = Dva      - два( Male),двe(F)
+3  = три    = Tri      -
+4  = четыре = Cietirie -
+5  = Пять   = piat
+6  = шесть  = sciest
+7  = семь   = siem
+8  = восемь = vosiem
+9  = девять = dieviat (ia diventa ie, può essere per la combo con la ть)
+10 = десять = diesiat (ia diventa ie, può essere per la combo con la ть)
+|
+11 = один   + надцать = одиннадцать
+12 = два    + надцать = дв[е]надцать    | [e] indica 'attenzione al cambio a -> e' 
+13 = три    + надцать = тринадцать
+14 = четыре + надцать = четыр(e)надцать | (e) indica 'e muta'
+15 = пять   + надцать = пят(ь)надцать
+16 = шесть  + надцать = шест(ь)надцать
+17 = семь   + надцать = сем(ь)надцать
+18 = восемь + надцать = восем(ь)надцать
+19 = девять + надцать = девят(ь)надцать
+
+20 = два + дцать = двадцать *senza pause vocali
+30 = три + дцать = тридцать *senza pause vocali
+
+40 = сорок
+
+50 = пять   + десят = пять  (-)десят *(-) è uno pausa vocale
+60 = шесть  + десят = шесть (-)десят *(-) è uno pausa vocale
+70 = семь   + десят = семь  (-)десят *(-) è uno pausa vocale
+80 = восемь + десят = восемь(-)десят *(-) è uno pausa vocale
+
+90  = девяносто *senza pause vocali
+100 = сто
+
+21 = двадцать один
+22 = двадцать два
+23 = двадцать три
+24 = двадцать четыре
+25 = двадцать пять
+26 = двадцать шесть
+27 = двадцать семь
+28 = двадцать восемь
+29 = двадцать девять
+
+31 = тридцать один
+32 = тридцать два
+33 = тридцать три
+34 = тридцать четыре
+35 = тридцать пять
+36 = тридцать шесть
+37 = тридцать семь
+38 = тридцать восемь
+39 = тридцать девять
+--------------------------------------------------------------------------
+
+DIREZIONI
+налево      = sinistra
+направо     = destra
+близко      = vicino
+далеко      = lontano
+Идите прямо = vai dritto
+      прямо =     dritto
+через мост  = al di là (dall'altra parte, attraverso)
+
+TRASPORTI
+трамвай = tram
+автобус = autobus
+метро   = metro
+такси   = taxi
+домой   = a casa (usato per il moto a luogo)
+поезд   = treno
+вокзал  = stazione
