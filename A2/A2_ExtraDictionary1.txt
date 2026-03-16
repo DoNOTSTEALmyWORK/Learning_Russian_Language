@@ -8,3 +8,27 @@
 У неё  есть белое  платье? == Lei ha  un  vestito   bianco?
 У тебя есть тёплая куртка? == Tu  hai un  giubbotto pesante?
 
+Ho la febbre.           == У меня температура.
+Ti fa male la gola?     == У тебя болит горло?
+Mi fa male la testa.    == У меня болит голова.
+Il mio vicino è medico. == Мой сосед - врач.
+Cosa Le fa male?        == Что у Вас болит?
+
+Mi (lett. Da me) fanno male le gambe. == У меня болят ноги.
+Mi fanno male i denti.                == У меня болят зубы.
+
+Как Вы себя чувствуете? == Come si sente?
+Вот Вам      лекарство. == EccoLe una medicina.
+У   меня.      насморк. == Ho il raffreddore.
+Три таблетки.   в день. == Tre compresse al giorno.
+
+Как Вы себя чувствуете? == si chiede ad una persona come sta. (    Formale)
+Как ты себя чувствуешь? == si chiede ad una persona come sta. (Non Formale)
+
+Buon appetito!                   == Приятного аппетита!
+Dov'è il mio cucchiaio?          == Где моя ложка?
+Dammi una forchetta, per favore! == Дай мне, пожалуйста, вилку!
+Mi dia un coltello, per favore!  == Дайте мне, пожалуйста, нож!
+
+конечно == of course (without any problem)
+           чно is soft, scna not cna.

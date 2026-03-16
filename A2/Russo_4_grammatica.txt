@@ -45,3 +45,22 @@
         NEUTRO:
           - о
           - (и)e + ий *и resta
+
+
+    - IMPERATIVO:
+      TU:
+         Дай мне, пожалуйста... == Dammi, per favore…
+      LEI:
+         Дайте мне, пожалуйста... == Mi dia, per favore…
+      LORO:
+         Андрей и Лара, дайте мне, пожалуйста... == Andrej e Lara, datemi per favore…
+      ACCUSATIVO:
+         FEMMINILE:
+                 Дай мне вилку!   == Dammi una forchetta!
+                 Дайте мне ложку! == Mi dia un cucchiaio!
+         MASCHILE E NEUTRI:
+                 Дайте мне, пожалуйста, нож! == Mi dia un coltello, per favore!
+         RITORNO AL NOMINATIVO-REVERSE:
+                 Дай мне нож!   - Вот нож.   == Dammi un coltello!   - Ecco un coltello.
+                 Дай мне вилку! - Вот вилка. == Dammi una forchetta! - Ecco una forchetta.
+                 Дай мне ложку! - Вот ложка. == Dammi un cucchiaio!  - Ecco un cucchiaio!
